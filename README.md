@@ -1,4 +1,4 @@
-# AnimeFLV Scrapper CLI
+# Rojadirecta Scrapper CLI
 
 Este proyecto permite buscar y reproducir Eventos deportivos desde [RojaDirecta](https://www.rojadirectaenvivo.pl/) directamente en tu reproductor MPV
 
